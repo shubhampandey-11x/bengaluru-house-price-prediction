@@ -1,8 +1,8 @@
-🏠 Bengaluru House Price Prediction using Machine Learning
+#_Bengaluru House Price Prediction using Machine Learning
 
 This project predicts house prices in Bengaluru based on property features such as location, size (BHK), total square feet, and number of bathrooms. It demonstrates an end-to-end machine learning workflow including data preprocessing, feature engineering, model training, and deployment through a simple web interface.
 
-🚀 Features
+#_Features
 
 Data cleaning and handling missing values
 
@@ -16,7 +16,7 @@ Model evaluation using train-test split and cross-validation
 
 Web app for real-time price prediction
 
-🛠 Tech Stack
+#_Tech Stack
 
 Python
 
@@ -28,7 +28,7 @@ Flask / Streamlit (for web app)
 
 HTML, CSS (if Flask used)
 
-📊 Dataset
+#_Dataset
 
 The dataset contains Bengaluru real estate data with the following key attributes:
 
@@ -44,7 +44,7 @@ Price
 
 Data preprocessing includes removing invalid entries, handling missing values, and converting categorical features using one-hot encoding.
 
-🧠 Machine Learning Workflow
+#_Machine Learning Workflow
 
 Load and explore dataset
 
@@ -62,7 +62,7 @@ Evaluate using R² score and cross-validation
 
 Save trained model for deployment
 
-🌐 Web Application
+#_Web Application
 
 The trained model is integrated into a simple web interface where users can:
 
@@ -76,11 +76,11 @@ Get instant price prediction
 
 This demonstrates how ML models can be used in real-world applications.
 
-📈 Results
+#_Results
 
 The model provides reasonably accurate price predictions for common residential areas and demonstrates how structured real estate data can be used for predictive analytics.
 
-📌 Future Improvements
+#_Future Improvements
 
 Try advanced models like Random Forest and XGBoost
 
